@@ -100,7 +100,7 @@
 
 **一键部署到 Render**
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mtvpls/MoonTVPlus)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/meetcode/TV)
 
 
 
